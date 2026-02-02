@@ -49,10 +49,10 @@ The analysis is conducted in a Jupyter Notebook, which processes production data
 
 ## Tech Stack
 
-Python
-Pandas (Data manipulation)
-NumPy (Numerical calculations)
-Matplotlib (Plotting and visualization)
+1. Python
+2. Pandas (Data manipulation)
+3. NumPy (Numerical calculations)
+4. Matplotlib (Plotting and visualization)
 
 ## Author
 Created by 5AIhil
